@@ -1,0 +1,15 @@
+baseURL = "https://liuhack.github.io"
+languageCode = "en-us"
+title = "LiUhack"
+theme = "hugo-theme-nix"
+
+[params]
+  Name = "LiUhack"
+  HeaderUsername = "LiUhack"
+  HeaderHostname = "LiUhack.se"
+  About = "LiUhack is a [CTF](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) team which members are students at [Linköping University](https://liu.se/). If you are interested to join us, feel free to contact us on our IRC channel [#liuhack on freenode](http://webchat.freenode.net?channels=%23liuhack&uio=d4), or by sending an email to us."
+  ProfilePicture = "https://i.imgur.com/CZh5lbk.jpg"
+
+TwitterID = "liuhackse"
+GithubID = "liuhack"
+Email = "liuhack@pm.me"
