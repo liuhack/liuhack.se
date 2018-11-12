@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:liuhack/liuhack.github.io.git
 	branch = master
+[submodule "content/writeups"]
+	path = content/writeups
+	url = git@github.com:liuhack/writeups.git

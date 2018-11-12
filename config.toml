@@ -2,6 +2,13 @@ baseURL = "https://liuhack.github.io"
 languageCode = "en-us"
 title = "LiUhack"
 theme = "hugo-theme-nix"
+Paginate = 100
+
+[menu]
+  [[menu.header]]
+    name = "writeups"
+    weight = 0
+    url = "/writeups"
 
 [params]
   Name = "LiUhack"
