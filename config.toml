@@ -1,6 +1,6 @@
 baseURL = "https://liuhack.github.io"
 languageCode = "en-us"
-title = "LiUhack"
+title = "LiUhack - CTF team at LiU"
 theme = "hugo-theme-nix"
 enableRobotsTXT = true
 canonifyURLs = true
