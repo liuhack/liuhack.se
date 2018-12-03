@@ -2,6 +2,8 @@ baseURL = "https://liuhack.github.io"
 languageCode = "en-us"
 title = "LiUhack"
 theme = "hugo-theme-nix"
+enableRobotsTXT = true
+canonifyURLs = true
 Paginate = 100
 
 [menu]
